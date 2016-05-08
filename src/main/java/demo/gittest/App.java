@@ -3,6 +3,8 @@ package demo.gittest;
 /**
  * A comment
  * Hello world!
+ * 
+ * a second change
  *
  */
 public class App 
