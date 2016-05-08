@@ -1,6 +1,7 @@
 package demo.gittest;
 
 /**
+ * A comment
  * Hello world!
  *
  */
