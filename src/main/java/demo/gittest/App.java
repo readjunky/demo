@@ -5,6 +5,8 @@ package demo.gittest;
  * Hello world!
  * 
  * a second change
+ * 
+ * Second User Change A
  *
  */
 public class App 
