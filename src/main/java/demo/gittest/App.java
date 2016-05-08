@@ -7,6 +7,7 @@ package demo.gittest;
  * a second change
  * 
  * Second User Change A
+ * Second User Change B
  *
  */
 public class App 
